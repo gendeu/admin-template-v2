@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Jun 2021 18:01:53 at https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/default.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/default.html -O1 "C:\Users\KLP-DEO\Desktop\admin-bootstrap5-v1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:02:08	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/default.html)
+18:02:20	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/images/layers.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/soft-ui-dashboard.min.css?v=1.0.1)
+18:02:20	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/images/layers-2x.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/soft-ui-dashboard.min.css?v=1.0.1)
+18:02:20	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/images/marker-icon.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/assets/css/soft-ui-dashboard.min.css?v=1.0.1)
+18:02:20	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/automotive.html)
+18:02:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/automotive.html)
+18:02:20	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png (from https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/automotive.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 58 links scanned, 50 files written (12611707 bytes overall) [10151815 bytes received at 375993 bytes/sec], 3275868 bytes transferred using HTTP compression in 30 files, ratio 22%, 7.8 requests per connection
+(5 errors, 2 warnings, 0 messages)
